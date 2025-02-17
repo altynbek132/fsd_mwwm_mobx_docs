@@ -3,10 +3,26 @@
 ## Feature Sliced Design (FSD)
 
 - [official docs](https://feature-sliced.design/docs)
-- [docs](https://github.com/altynbek132/fsd_mwwm_mobx_demo)
+
+### Доклады
+
 - про FSD [Feature-Sliced Design / Александр Моргунов](https://youtu.be/M84x3pzDYr0)
 - FSD на примере MVP проектов (3-6 месяцев) на практике [Эволюция архитектуры. Как мы пришли к FSD / Сергей Пономарёв, Purrweb](https://youtu.be/KVcY1bfUCBU)
 - docs
+
+### Examples
+
+#### Official react examples
+
+- [nukeapp](https://github.com/noveogroup-amorgunov/nukeapp)
+- [realworld-react-fsd](https://github.com/yurisldk/realworld-react-fsd)
+
+#### FSD MWWM MOBX example
+
+- [fsd_mwwm_mobx_demo](https://github.com/altynbek132/fsd_mwwm_mobx_demo)
+
+### Community
+
 - [tg community](https://t.me/feature_sliced)
 - [use as community discussions reference bot, do not rely on his answers](https://t.me/feature_sliced/92691)
 
