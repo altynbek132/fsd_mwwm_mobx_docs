@@ -16,8 +16,15 @@
 
 ### Соответствие слоев c чистой Архитектурой
 
+[диаграмма](https://github.com/altynbek132/arbihunter_docs/blob/main/clean_fsd.png)
+
 - "Domain" → "Entities"
 - "Application" → "Features"
+
+#### Различие
+
+[диаграмма](https://github.com/altynbek132/arbihunter_docs/blob/main/clean_fsd_ui.png)
+
 - UI выделяется как отдельный слой во внешнем слое
 
 ### Основные преимущества
@@ -71,7 +78,7 @@
 
 После этого AI сможет отвечать на ваши вопросы, опираясь на загруженную документацию и предоставлять соответствующие ссылки на источники.
 
-[пример](todo)
+[пример](https://github.com/altynbek132/arbihunter_docs/blob/main/msty_example.png)
 
 ## MOBX + STREAM
 
@@ -155,8 +162,8 @@ Elementary решает важную архитектурную задачу - �
 
 ### Conentional commits
 
-- [android studio plugin](https://plugins.jetbrains.com/plugin/21335-ai-commits), [prompt with arbihunter guidelines](todo)
-- [vscode plugin](https://marketplace.visualstudio.com/items?itemName=Sitoi.ai-commit), [prompt without arbihunter guidelines](todo)
+- [android studio plugin](https://plugins.jetbrains.com/plugin/21335-ai-commits), [prompt with arbihunter guidelines](https://github.com/altynbek132/arbihunter_docs/blob/main/ai_commit_prompt_AS.txt)
+- [vscode plugin](https://marketplace.visualstudio.com/items?itemName=Sitoi.ai-commit), [prompt without arbihunter guidelines](https://github.com/altynbek132/arbihunter_docs/blob/main/ai_commit_prompt_vscode.txt)
 
 Сгенерировать commit message очень просто: вставляете этот промпт в настройки расширения, выбираете изменения для commit (добавляете в staging area), запускаете генератор, и он автоматически создаст сообщение commit.
 
