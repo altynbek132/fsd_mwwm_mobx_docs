@@ -16,14 +16,14 @@
 
 ### Соответствие слоев c чистой Архитектурой
 
-[диаграмма](https://github.com/altynbek132/arbihunter_docs/blob/main/clean_fsd.png)
+![диаграмма](https://github.com/altynbek132/arbihunter_docs/blob/main/clean_fsd.png)
 
 - "Domain" → "Entities"
 - "Application" → "Features"
 
 #### Различие
 
-[диаграмма](https://github.com/altynbek132/arbihunter_docs/blob/main/clean_fsd_ui.png)
+![диаграмма](https://github.com/altynbek132/arbihunter_docs/blob/main/clean_fsd_ui.png)
 
 - UI выделяется как отдельный слой во внешнем слое
 
